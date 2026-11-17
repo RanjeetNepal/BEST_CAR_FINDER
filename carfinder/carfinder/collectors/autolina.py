@@ -1,0 +1,1 @@
+"""Autolina listing collector."""
